@@ -3,5 +3,5 @@ class Solution:
         result = []
         for i in range(len(words)):
             if x in words[i]:
-                result += [i]
+                result.append(i)
         return result
