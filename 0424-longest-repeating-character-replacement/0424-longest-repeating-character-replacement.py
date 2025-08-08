@@ -12,7 +12,7 @@ class Solution:
             hashmap[s[right]] = 1 + hashmap.get(s[right], 0)
             maxRep = max(maxRep, hashmap[s[right]])
 
-            while (right - left + 1) - maxRep > k:
+            if (right - left + 1) - maxRep > k:
                 hashmap[s[left]] -= 1
                 left += 1
             
