@@ -1,23 +1,15 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
-        def func(nums: List[int], goal: int) -> int:
-            l = 0
-            r = 0
-            sum = 0
-            count = 0
+        
+        hashmap = {0: 1}
+        prefSum = 0
+        count = 0
 
-            while (r < len(nums)):
-                sum += nums[r]
+        for num in nums:
+            prefSum += num
+            
+            count += hashmap.get(prefSum - goal, 0)
+            
+            hashmap[prefSum] = 1 + hashmap.get(prefSum, 0)
 
-                while (sum > goal and l <= r):
-                    sum -= nums[l]
-                    l += 1
-
-                if sum <= goal:
-                    count += r - l + 1
-
-                r += 1
-
-            return count
-
-        return func(nums, goal) - func(nums, goal - 1)
+        return count
