@@ -25,6 +25,7 @@
 | [0940-fruit-into-baskets](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
