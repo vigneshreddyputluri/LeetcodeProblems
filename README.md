@@ -17,6 +17,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,10 +89,12 @@
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
