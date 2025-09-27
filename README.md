@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
@@ -21,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
