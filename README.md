@@ -97,4 +97,8 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/3193-maximum-strong-pair-xor-i) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/vigneshreddyputluri/LeetcodeProblems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
